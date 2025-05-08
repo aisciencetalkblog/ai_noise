@@ -1,0 +1,8 @@
+streamlit>=1.25
+pandas>=1.5
+numpy<2.0.0
+matplotlib>=3.5
+scikit-learn>=1.0
+tensorflow==2.8.1
+protobuf>=3.20.0,<4
+fpdf==1.7.2
